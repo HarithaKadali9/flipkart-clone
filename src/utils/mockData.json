@@ -1,0 +1,80 @@
+{
+    "categories": [
+      {"id": 1, "name": "Electronics"},
+      {"id": 2, "name": "Fashion"},
+      {"id": 3, "name": "Home & Kitchen"},
+      {"id": 4, "name": "Books"},
+      {"id": 5, "name": "Beauty & Personal Care"}
+    ],
+    "products": [
+      {
+        "id": 101,
+        "name": "Apple iPhone 14",
+        "category": "Electronics",
+        "price": 79999,
+        "rating": 4.7,
+        "image": "https://example.com/iphone14.jpg",
+        "description": "128GB, Midnight Black, A15 Bionic Chip"
+      },
+      {
+        "id": 102,
+        "name": "Samsung Galaxy S23",
+        "category": "Electronics",
+        "price": 74999,
+        "rating": 4.6,
+        "image": "https://example.com/galaxyS23.jpg",
+        "description": "256GB, Phantom Black, Snapdragon 8 Gen 2"
+      },
+      {
+        "id": 201,
+        "name": "Men's Casual Shirt",
+        "category": "Fashion",
+        "price": 1199,
+        "rating": 4.2,
+        "image": "https://example.com/menshirt.jpg",
+        "description": "Slim Fit, Cotton Blend, Blue"
+      },
+      {
+        "id": 301,
+        "name": "Non-stick Cookware Set",
+        "category": "Home & Kitchen",
+        "price": 2499,
+        "rating": 4.3,
+        "image": "https://example.com/cookwareset.jpg",
+        "description": "5-piece set, induction-friendly"
+      },
+      {
+        "id": 401,
+        "name": "The Psychology of Money",
+        "category": "Books",
+        "price": 499,
+        "rating": 4.8,
+        "image": "https://example.com/psychologyofmoney.jpg",
+        "description": "Best-selling book on financial wisdom"
+      },
+      {
+        "id": 501,
+        "name": "Lakme 9 to 5 Lipstick",
+        "category": "Beauty & Personal Care",
+        "price": 299,
+        "rating": 4.5,
+        "image": "https://example.com/lakmelipstick.jpg",
+        "description": "Matte finish, Long-lasting, Red"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "Haritha Kadali",
+        "email": "haritha@example.com",
+        "address": "Razole, AP, India"
+      },
+      {
+        "id": 2,
+        "name": "Rahul Sharma",
+        "email": "rahul@example.com",
+        "address": "Mumbai, Maharashtra, India"
+      }
+    ]
+  }
+  
