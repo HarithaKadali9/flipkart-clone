@@ -9,6 +9,7 @@ import Mobiles from './components/Mobiles';
 import LoginForm from './components/LoginForm';
 import SignupForm from './components/SignupForm';
 import CartPage from './components/CartPage';
+import ProceedToPayment from './components/ProceedToPayment';
 
 function App() {
   const totalcount=0;
@@ -25,6 +26,7 @@ function App() {
         <Route path="/login" element={<LoginForm />} />
         <Route path="/signup" element={<SignupForm />} />
         <Route path="/cart" element={<CartPage count={totalcount} price={1000} />} />
+        <Route path='/proceedtopayment' element={<ProceedToPayment/>}/>
       </Routes>
       
       <Footer /> {/* Keep Footer outside of Routes */}

@@ -21,11 +21,11 @@ const Fashion = ({count}) => {
               <h1>{data.name}</h1>
               <h3 className='line-through'>Rs. {data.rupees}/-</h3>
               <h3 className='text-green-500 text-bold'>Offer: Rs. {data.offerPrice}/-</h3>
-              <button className='border border-black px-2 mx-2 rounded-lg' 
-                          onClick={() => dispatch(addItem(<div><img className='h-40 w-40 rounded' src={data.image}/><h1>{data.name}</h1>
-                            <h3>Rs. {data.offerPrice}/-</h3></div>))}>
-                            Add cart
-                          </button>
+              
+              <button className='border border-black px-2 mx-2 rounded-lg text-black hover:bg-green-500 hover:text-white' 
+                onClick={() => dispatch(addItem({id:data.id, name:data.name, rupees: data.offerPrice, image:data.image}))}>
+                Add cart
+              </button>
             </div>
           ))}
       </div>

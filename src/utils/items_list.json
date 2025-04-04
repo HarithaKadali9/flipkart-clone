@@ -1,42 +1,42 @@
 {
     "fashion": [
       {
-        "id": 1,
+        "id": 11,
         "name": "Kurtis",
         "rupees": "1000",
         "offerPrice": "500",
         "image": "https://m.media-amazon.com/images/I/91dKFxVIZjL._AC_UY1100_.jpg"
       },
       {
-        "id": 2,
+        "id": 12,
         "name": "T-Shirt",
         "rupees": "1200",
         "offerPrice": "600",
         "image": "https://thebanyantee.com/cdn/shop/files/Black-T-shirt.jpg?v=1721380366"
       },
       {
-        "id": 3,
+        "id": 13,
         "name": "Casual Shirt",
         "rupees": "1400",
         "offerPrice": "700",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7vzknuZs1fQkfp3ddGLkVta7VOG_KBcqlGg&s"
       },
       {
-        "id": 4,
+        "id": 14,
         "name": "Leggins",
         "rupees": "800",
         "offerPrice": "400",
         "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/legging/p/6/w/free-5369-jivaji-soft-leggins-original-imagud5kyg4wgtww.jpeg?q=90&crop=false"
       },
       {
-        "id": 5,
+        "id": 15,
         "name": "Smart Watch",
         "rupees": "5000",
         "offerPrice": "3000",
         "image": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw61458d43/images/Titan/Catalog/90188AP01_1.jpg?sw=600&sh=600"
       },
       {
-        "id": 6,
+        "id": 16,
         "name": "Slippers",
         "rupees": "600",
         "offerPrice": "200",
@@ -45,42 +45,42 @@
     ],
     "mobiles": [
       {
-        "id": 1,
+        "id": 21,
         "name": "Oppo",
         "rupees": "30000",
         "offerPrice": "28500",
         "image": "https://m.media-amazon.com/images/I/81Ww9bOGRfL.jpg"
       },
       {
-        "id": 2,
+        "id": 22,
         "name": "Vivo",
         "rupees": "13000",
         "offerPrice": "12000",
         "image": "https://m.media-amazon.com/images/I/41Ml%2BbxR8UL._AC_SY350_QL15_.jpg"
       },
       {
-        "id": 3,
+        "id": 23,
         "name": "Redmi",
         "rupees": "18000",
         "offerPrice": "17000",
         "image": "https://m.media-amazon.com/images/I/41azS4pD-mL._AC_UF1000,1000_QL80_.jpg"
       },
       {
-        "id": 4,
+        "id": 24,
         "name": "Apple",
         "rupees": "150000",
         "offerPrice": "140000",
         "image": "https://inventstore.in/wp-content/uploads/2024/07/63.webp"
       },
       {
-        "id": 5,
+        "id": 25,
         "name": "Realme",
         "rupees": "20000",
         "offerPrice": "18000",
         "image": "https://rukminim3.flixcart.com/image/850/1000/xif0q/mobile/s/z/t/-original-imah7hynztfzdgp9.jpeg?q=90&crop=false"
       },
       {
-        "id": 6,
+        "id": 26,
         "name": "Samsung",
         "rupees": "22000",
         "offerPrice": "21000",
@@ -89,42 +89,42 @@
     ],
     "women": [
       {
-        "id": 1,
+        "id": 31,
         "name": "Kurti",
         "rupees": "1200",
         "offerPrice": "500",
         "image": "https://clothsvilla.com/cdn/shop/files/red-lucknowi-georgette-kurti-suit-with-palazzo-organza-dupatta_1_1024x1024.jpg?v=1708605043"
       },
       {
-        "id": 2,
+        "id": 32,
         "name": "Lehanga",
         "rupees": "3000",
         "offerPrice": "1500",
         "image": "https://images.meesho.com/images/products/270894837/udr5c_512.webp"
       },
       {
-        "id": 3,
+        "id": 33,
         "name": "Crop top",
         "rupees": "1400",
         "offerPrice": "500",
         "image": "https://shopzters.com/cdn/shop/files/SHOPZTERSPRODUCTRESIZE-01_6ea8ade0-5eba-47c3-9eec-61be8969a4b0_750x.png.jpg?v=1706696752"
       },
       {
-        "id": 4,
+        "id": 34,
         "name": "Saree",
         "rupees": "1500",
         "offerPrice": "1000",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuDuagWNdYsUVCDL_YXQOB6sImtZUN7YjcQQ&s"
       },
       {
-        "id": 5,
+        "id": 35,
         "name": "Leggin",
         "rupees": "700",
         "offerPrice": "350",
         "image": "https://www.zonadepadel.com/17339-large_default/leggin-bullpadel-erais-cherry.jpg"
       },
       {
-        "id": 6,
+        "id": 36,
         "name": "Night wear",
         "rupees": "800",
         "offerPrice": "500",
