@@ -34,7 +34,8 @@ const CartPage = () => {
       <p className="text-bold">Total Price: {totalPrice}/-</p>
       <button className='border bg-green-400 text-white rounded p-2'
       onClick={()=>{
-        navigate("/proceedtopayment");
+        if(totalQuantity===0)navigate("/emptycart");
+        else navigate("/proceedtopayment");
       }}
       >Proceed to payment</button>
       <button className='border bg-red-500 text-white rounded p-2' onClick={()=>{

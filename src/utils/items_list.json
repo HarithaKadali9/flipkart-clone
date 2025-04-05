@@ -130,6 +130,64 @@
         "offerPrice": "500",
         "image": "https://assets.ajio.com/medias/sys_master/root/20230828/Mbeh/64ecca71ddf779151983c3ba/-473Wx593H-466501998-green-MODEL.jpg"
       }
+    ],
+    "products": [
+      {
+        "id": 41,
+        "name": "Kilos",
+        "accordiana": "Soaps",
+        "accordianb": "stationary",
+        "image": "https://rukminim2.flixcart.com/flap/80/80/image/29327f40e9c4d26b.png?q=100"
+      },
+      {
+        "id": 42,
+        "name": "Mobiles",
+        "accordiana": "SmartPhones",
+        "accordianb": "Keypad phones",
+        "image": "https://rukminim2.flixcart.com/flap/80/80/image/22fddf3c7da4c4f4.png?q=100"
+      },
+      {
+        "id": 43,
+        "name": "Fashion",
+        "accordiana": "Men's Wear",
+        "accordianb": "Women's Wear",
+        "image": "https://shopzters.com/cdn/shop/files/SHOPZTERSPRODUCTRESIZE-01_6ea8ade0-5eba-47c3-9eec-61be8969a4b0_750x.png.jpg?v=1706696752"
+      },
+      {
+        "id": 44,
+        "name": "Electronics",
+        "accordiana": "Housing",
+        "accordianb": "Smart Wearables",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuDuagWNdYsUVCDL_YXQOB6sImtZUN7YjcQQ&s"
+      },
+      {
+        "id": 45,
+        "name": "Home & Furniture",
+        "accordiana": "Furniture",
+        "accordianb": "Kitchen & Dining",
+        "image": "https://www.zonadepadel.com/17339-large_default/leggin-bullpadel-erais-cherry.jpg"
+      },
+      {
+        "id": 46,
+        "name": "Appliances",
+        "accordiana": "Washing, Ac..",
+        "accordianb": "Refrigirators",
+        "image": "https://rukminim2.flixcart.com/fk-p-flap/80/80/image/0139228b2f7eb413.jpg?q=100"
+      },
+      {
+        "id": 47,
+        "name": "Beauty, Toys & More",
+        "accordiana": "Makeup",
+        "accordianb": "Books",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT81oCE6x3tIeuwDvtjbTAurws2_reVkuAZwg&s"
+      },
+      {
+        "id": 48,
+        "name": "Two Wheelers",
+        "accordiana": "Petrol Vehicles",
+        "accordianb": "Electric Vehicles",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSWBb1uRNq0V7TuTOdetHKV8DpdDvGUfgNZA&s"
+      }
     ]
   }
   
